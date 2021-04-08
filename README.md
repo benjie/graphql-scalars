@@ -1,4 +1,4 @@
-The goal of this repo is to contain GraphQL custom scalar specifications.
+The goal of this repo is to contain community-contributed GraphQL custom scalar specifications.
 
 # Contributing to this repo
 
